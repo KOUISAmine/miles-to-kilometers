@@ -1,2 +1,5 @@
-# miles-to-kilometers
-Convert miles (mi) to kilometers (km) with ease.
+# Miles to Kilometers [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+>Convert miles (mi) to kilometers (km) with ease.
+
+Try demo: https://tools.waytolearnx.com/miles-to-kilometers
